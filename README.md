@@ -1,10 +1,10 @@
 # 🚀 1clickai-wadmin
 
-![WAdmin Logo](https://raw.githubusercontent.com/mosqueiro/1clickai-wadmin-installer/main/screen.png)
+![WAdmin Logo](https://1click.ai/wadmin/1.png)
 
 ## 📝 About
 
-This is the official installer for WAdmin - Your Ultimate WordPress Management Solution! 🎯
+This is the official installer for WAdmin - Your Ultimate WhatsApp Group Management Solution with AI! 🎯
 
 ## 🔗 More Information
 
@@ -14,14 +14,15 @@ For more detailed information about WAdmin, please visit our official website:
 ## ✨ Features
 
 - 🎯 One-Click Installation
-- 🛠️ Easy Setup
-- 🔒 Secure Installation Process
-- 🚀 Fast and Reliable
+- 🤖 AI-Powered Group Management
+- 📱 WhatsApp Integration
+- 🔒 Secure and Reliable
 - 💻 Cross-Platform Support
+- 🎨 Beautiful Interface
 
 ## 🎉 Why Choose WAdmin?
 
-WAdmin provides a seamless experience for managing your WordPress installations. With our installer, you can get started in minutes! ⚡
+WAdmin provides a seamless experience for managing your WhatsApp groups with the power of artificial intelligence. Automate tasks, moderate content, and enhance your group management experience! ⚡
 
 ## 📞 Support
 
@@ -33,4 +34,4 @@ If you find this project helpful, please consider giving us a star! ⭐
 
 ---
 
-Made with ❤️ by the WAdmin Team
+Made with ❤️ by the 1Click.AI Team
