@@ -1,6 +1,6 @@
-# 🚀 1clickai-wadmin
+# 🤖 WAdmin Installer
 
-![WAdmin Logo](https://1click.ai/wadmin/1.png)
+![WAdmin Installer](https://raw.githubusercontent.com/mosqueiro/1clickai-wadmin-installer/main/screen.png)
 
 ## 📝 About
 
@@ -23,6 +23,10 @@ For more detailed information about WAdmin, please visit our official website:
 ## 🎉 Why Choose WAdmin?
 
 WAdmin provides a seamless experience for managing your WhatsApp groups with the power of artificial intelligence. Automate tasks, moderate content, and enhance your group management experience! ⚡
+
+## 📱 WAdmin Interface
+
+![WAdmin Interface](https://1click.ai/wadmin/1.png)
 
 ## 📞 Support
 
